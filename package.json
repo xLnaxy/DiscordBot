@@ -1,0 +1,25 @@
+{
+  "name": "discord-bot",
+  "version": "0.0.1",
+  "description": "create by lionytic",
+  "main": "route.js",
+  "scripts": {
+    "start": "node route.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^11.5.1",
+    "enmap": "^5.2.4",
+    "ejs": "^3.0.1",
+    "moment": "^2.24.0",
+    "cpu-stat": "^2.0.1",
+    "moment-duration-format": "^2.2.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT"
+}
