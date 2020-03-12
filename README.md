@@ -1,8 +1,10 @@
 # DiscordBot
 V.1 Alpha
 
-# Requiment
+# Requirement
 
 Node.js
+
 Discord.js
+
 Ejs
